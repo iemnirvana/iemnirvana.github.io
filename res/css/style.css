@@ -619,7 +619,7 @@
     }
     
     .sponsor-1 {
-        transform: translate(655px, 299px) translateZ(-67px)  rotateX(-90deg);
+        transform: translate(655px, 299px) translateZ(-65px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor1.jpg');
         font-size: 100px;
         width: 100px;
@@ -629,35 +629,43 @@
     }
     
     .sponsor-2 {
-        transform:translate(653px, 228px) translateZ(-94px)  rotateX(-90deg);
+        transform:translate(643px, 228px) translateZ(-74px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor2.jpg');
         font-size: 100px;
         width: 100px;
         background-repeat: no-repeat;
-        background-size: 50px 20px;
+        background-size: 70px 40px;
     }
     
     .sponsor-3 {
-        transform: translate(653px, 191px) translateZ(-95px)  rotateX(-90deg);
+        transform: translate(643px, 171px) translateZ(-75px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor3.jpg');
         font-size: 100px;
         width: 100px;
         background-repeat: no-repeat;
-        background-size: 50px 20px;    
+        background-size: 70px 40px;    
     }
     .sponsor-4 {
-        transform: translate(653px, 154px) translateZ(-94px)  rotateX(-90deg);
+        transform: translate(643px, 118px) translateZ(-74px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor4.jpg');
         font-size: 100px;
         width: 100px;
         background-repeat: no-repeat;
-        background-size: 50px 20px;    }
+        background-size: 70px 40px;    }
+
+    .sponsor-5 {
+        transform: translate(643px, 64px) translateZ(-74px)  rotateX(-90deg);
+        background-image:url('images/icons/sponsor5.jpg');
+        font-size: 100px;
+        width: 100px;
+        background-repeat: no-repeat;
+        background-size: 70px 40px;    }
     
     
     .sponsor-text {
         color:white;
-        font-size:10px;
-        transform: translate(650px, 423px) rotateX(-90deg);
+        font-size:12px;
+        transform: translate(645px, 423px) rotateX(-90deg);
     }
     .taxi {
         font-size: 30px;

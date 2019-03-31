@@ -610,7 +610,7 @@
     }
     
     .sponsor-1 {
-        transform: translate(667px, 318px) translateZ(-32px)  rotateX(-90deg);
+        transform: translate(655px, 299px) translateZ(-67px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor1.jpg');
         font-size: 100px;
         width: 100px;
@@ -620,7 +620,7 @@
     }
     
     .sponsor-2 {
-        transform:translate(661px, 228px) translateZ(-74px)  rotateX(-90deg);
+        transform:translate(653px, 228px) translateZ(-94px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor2.jpg');
         font-size: 100px;
         width: 100px;
@@ -629,12 +629,21 @@
     }
     
     .sponsor-3 {
-        transform: translate(673px, 216px) translateZ(-32px)  rotateX(-90deg);
+        transform: translate(653px, 191px) translateZ(-95px)  rotateX(-90deg);
         background-image:url('images/icons/sponsor3.jpg');
         font-size: 100px;
         width: 100px;
         background-repeat: no-repeat;
+        background-size: 50px 20px;    
+    }
+    .sponsor-4 {
+        transform: translate(653px, 154px) translateZ(-94px)  rotateX(-90deg);
+        background-image:url('images/icons/sponsor4.jpg');
+        font-size: 100px;
+        width: 100px;
+        background-repeat: no-repeat;
         background-size: 50px 20px;    }
+    
     
     .sponsor-text {
         color:white;

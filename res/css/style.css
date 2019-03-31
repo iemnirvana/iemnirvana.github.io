@@ -581,6 +581,15 @@
         background-size: 32px 32px;
     }
 
+    .dates
+    {
+        color :white;
+        transform:translate(450px,537px) rotateX(-90deg);
+        
+        font-size:30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    }
+
    
     
     .tree-94{transform:translate(409px,532px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-95{transform:translate(510px,536px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-96{transform:translate(35px,559px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-97{transform:translate(144px,534px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-98{transform:translate(303px,549px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-99{transform:translate(27px,552px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-100{transform:translate(168px,548px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-101{transform:translate(202px,535px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-102{transform:translate(536px,557px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-103{transform:translate(254px,558px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-104{transform:translate(111px,556px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-105{transform:translate(645px,556px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}.tree-106{transform:translate(685px,518px) rotateX(-90deg) rotateY(calc(var(--rotate-y)*-1))}
